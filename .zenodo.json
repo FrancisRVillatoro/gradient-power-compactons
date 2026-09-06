@@ -1,0 +1,31 @@
+{
+  "title": "Reproducibility software and data for edge-cusped gradient-power compactons",
+  "description": "Source code, numerical data, and generated research outputs for reproducibility of a two-exponent gradient-power extension of the absolute Rosenau-Hyman compacton equation. The manuscript itself is not included.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Villatoro, Francisco R.",
+      "affiliation": "Universidad de Malaga",
+      "orcid": "0000-0003-4314-6213"
+    }
+  ],
+  "access_right": "open",
+  "license": "mit-license",
+  "version": "1.0.0",
+  "keywords": [
+    "compactons",
+    "degenerate nonlinear dispersion",
+    "nonlinear waves",
+    "free boundaries",
+    "singular Sturm-Liouville operators",
+    "Rosenau-Hyman equation",
+    "spectral approximation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/FrancisRVillatoro/gradient-power-compactons",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
