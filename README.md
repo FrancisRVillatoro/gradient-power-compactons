@@ -50,7 +50,7 @@ python scripts/time_simulations_padded.py --r 5 --N 384 --T 0.1 --pad 3 --nout 1
 
 ## Release
 
-The first public release will be `v1.0.0`. After the new repository has been connected to Zenodo, that release will receive a new DOI.
+The first public release will be `v1.0.0`. The exact software/data release will be archived manually in Zenodo.
 
 ## License
 
