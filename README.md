@@ -50,7 +50,10 @@ python scripts/time_simulations_padded.py --r 5 --N 384 --T 0.1 --pad 3 --nout 1
 
 ## Release
 
-The first public release will be `v1.0.0`. The exact software/data release will be archived manually in Zenodo.
+Release `v1.0.0` is archived in Zenodo under DOI `10.5281/zenodo.22671976`.
+
+Development repository:
+`https://github.com/FrancisRVillatoro/gradient-power-compactons`
 
 ## License
 
