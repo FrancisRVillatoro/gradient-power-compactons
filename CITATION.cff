@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this software or data, please cite the archived release and the associated study."
-title: "Reproducibility software and data for Edge-cusped compactons from gradient-power nonlinear dispersion: exact transitions and singular spectral structure"
+message: "If you use this code, data, or figures, please cite this archived reproducibility release."
+title: "Gradient-power compactons reproducibility code, data, and figures"
 type: software
 authors:
   - family-names: Villatoro
@@ -8,6 +8,8 @@ authors:
     orcid: "https://orcid.org/0000-0003-4314-6213"
     affiliation: "Universidad de Malaga"
 version: 1.0.0
+date-released: 2026-09-10
+doi: "10.5281/zenodo.22671976"
 license: MIT
 repository-code: "https://github.com/FrancisRVillatoro/gradient-power-compactons"
 keywords:
@@ -16,4 +18,4 @@ keywords:
   - nonlinear waves
   - free boundaries
   - singular Sturm-Liouville operators
-  - Rosenau-Hyman equation
+  - spectral approximation
