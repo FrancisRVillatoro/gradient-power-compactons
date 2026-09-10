@@ -8,7 +8,7 @@ venv/
 scratch/
 _tmp/
 
-# Do not track manuscript source or PDFs outside reproducibility figures
+# Source/archive policy
 *.tex
 *.bib
 *.pdf
