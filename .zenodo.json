@@ -1,6 +1,6 @@
 {
-  "title": "Reproducibility software and data for edge-cusped gradient-power compactons",
-  "description": "Source code, numerical data, and generated research outputs for reproducibility of a two-exponent gradient-power extension of the absolute Rosenau-Hyman compacton equation. The manuscript itself is not included.",
+  "title": "Gradient-power compactons reproducibility code, data, and figures",
+  "description": "Source code, numerical data, and generated figures for reproducibility of computations on gradient-power compactons.",
   "upload_type": "software",
   "creators": [
     {
@@ -18,7 +18,6 @@
     "nonlinear waves",
     "free boundaries",
     "singular Sturm-Liouville operators",
-    "Rosenau-Hyman equation",
     "spectral approximation"
   ],
   "related_identifiers": [
